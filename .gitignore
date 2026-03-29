@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.db
+
+# Temp files
+tempCodeRunnerFile.py
+
+# VS Code
+.vscode/
