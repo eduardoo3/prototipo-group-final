@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.db
+
+# Node (caso use no futuro)
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
